@@ -8,3 +8,4 @@ Drivers, a file has been made for you to get started and learn the controls. [Dr
 
 ## Config
 Robot configurations in the driver hub must be exact. You can make sure the hardware is mapped properly here. [Hardware config](Config.md)
+hi
